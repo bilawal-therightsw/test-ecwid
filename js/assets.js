@@ -1,3 +1,5 @@
+
+window.localStorage.setItem("show_ec_logs","true")
 Ecwid.OnPageLoaded.add(function(page){
  
   if (page.type == 'CART') {
