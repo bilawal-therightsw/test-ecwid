@@ -8,4 +8,5 @@ Ecwid.OnPageLoaded.add(function(page){
       // var formClass = $('.ec-form').append(html);
       // console.log("Current page is of type: " + page.type); 
     }
+    console.log(page.type);
 });
