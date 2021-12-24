@@ -18,7 +18,7 @@ Ecwid.OnPageLoaded.add(function(page){
               'title': 'How did you find us?',
               'type': 'select',
               'required': false,
-              // 'selectOptions': ['Google Ads', 'Friend told me', 'TV show', 'Other'],
+              'selectOptions': ['Google Ads', 'Friend told me', 'TV show', 'Other'],
               'options': [
                   {'title': 'Google Ads'},
                 {'title': 'Friend told me'},
